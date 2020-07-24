@@ -1,1 +1,1 @@
-My first file from nvgit
+Second line added to this file.
